@@ -39,6 +39,26 @@ function App() {
             </div>
           </div>
         </div>
+        <footer>
+          This page was coded by Samira Seyfi
+          <a
+            href="https://github.com/Samira77-ss/profile-card-component"
+            target="_blank"
+            alt="GithHub Profile"
+            rel="noreferrer"
+          >
+            open-source-code on GitHub
+          </a>
+          , and hosted on
+          <a
+            href="https://luminous-cucurucho-8d07c7.netlify.app"
+            alt="Netlify link"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Netlify
+          </a>
+        </footer>
       </div>
     </div>
   );
